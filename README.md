@@ -20,10 +20,9 @@ I'm currently in my 6th semester of Computer Science, specializing in Databases 
 * **Game Development:** Designing game mechanics and logic as a practical way to advance my Object-Oriented Programming (OOP) skills.
 
 ### 📈 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wojtek4321&show_icons=true&theme=radical" alt="Wojciech Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wojtek4321&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Wojciech's Stats](https://github-readme-stats.vercel.app/api?username=wojtek4321&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtek4321&layout=compact&theme=radical)
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-p%C4%99dziwiatr-399690398/)
