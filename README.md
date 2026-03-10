@@ -21,6 +21,7 @@ I'm currently in my 6th semester of Computer Science, specializing in Databases 
 
 ### 📈 GitHub Activity
 
-[![Wojciech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojtek4321&show_icons=true&theme=radical)](https://github.com/wojtek4321)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtek4321&layout=compact&theme=radical)](https://github.com/wojtek4321)
+![Wojciech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojtek4321&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtek4321&layout=compact&theme=radical)
 
