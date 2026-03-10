@@ -12,8 +12,9 @@ I'm currently in my 6th semester of Computer Science, specializing in Databases 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 
-### 🚀 Featured Project
-* **Liquid Measurement System** - An academic project focused on measuring liquid level, temperature, and pressure in a water tank. It features hardware integration and an accompanying web interface operating via an Access Point.
+### 🚀 Featured Projects
+* **[Image Sharpening Performance (C++ & x64 ASM)](https://github.com/wojtek4321/image-sharpening-performance-cpp-asm)** – A high-performance tool comparing C++ and Assembly (x64) with SIMD (SSE/AVX) optimizations and multi-threading.
+* **Liquid Measurement System** – An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
 
 ### 🌱 Currently Exploring
 * **Cybersecurity:** Expanding my knowledge of IT infrastructure protection and network security (completed the *Akademia_CYBER.MIL* Windows Security course).
