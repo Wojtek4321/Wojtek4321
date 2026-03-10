@@ -25,3 +25,5 @@ I'm currently in my 6th semester of Computer Science, specializing in Databases 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtek4321&layout=compact&theme=radical)
 
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-pędziwiatr)
