@@ -1,6 +1,6 @@
 # Hi, I'm Wojciech 👋
 
-🎓 **Computer Science Student at Silesian University of Technology** | 🛡️ **Cybersecurity & Gamedev Enthusiast**
+🎓 **Computer Science Student at Silesian University of Technology**
 
 I'm currently in my 6th semester of Computer Science, specializing in Databases and Systems Engineering. I am passionate in cybersecurity and game development.
 
