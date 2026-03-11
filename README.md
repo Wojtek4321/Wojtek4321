@@ -15,7 +15,7 @@
 
 ### My Projects 
 * **[Image Sharpening Performance (C++ & x64 ASM)](https://github.com/wojtek4321/image-sharpening-performance-cpp-asm)** – A high-performance tool comparing C++ and Assembly (x64) with SIMD (SSE/AVX) optimizations and multi-threading.
-* **Liquid Measurement System** – An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
+* **[Liquid Measurement System](https://github.com/Wojtek4321/liquid_measurement_system)** – An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
 
 
 ### Currently Exploring
