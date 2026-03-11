@@ -27,5 +27,5 @@
 * **Game Dev:** Designing game mechanics and logic as a practical way to advance my Object-Oriented Programming (OOP) skills.
 
 ### Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-p%C4%99dziwiatr-399690398/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-p%C4%99dziwiatr-399690398/)
 
