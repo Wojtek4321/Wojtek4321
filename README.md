@@ -22,7 +22,6 @@
 * **Cybersecurity:** Expanding my knowledge of IT infrastructure protection and network security (completed the *Akademia_CYBER.MIL* Windows Security course).
 * **Game Dev:** Designing game mechanics and logic as a practical way to advance my Object-Oriented Programming (OOP) skills.
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wojtek4321&label=Profile%20views&color=0e75b6&style=flat" alt="wojtek4321" /> </p>
 
