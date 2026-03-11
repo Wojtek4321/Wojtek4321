@@ -6,8 +6,6 @@
 
 *I'm currently in my 6th semester of Computer Science, specializing in Databases and Systems Engineering.*
 
----
-
 # Work with
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +20,7 @@
 * **[Image Sharpening Performance (C++ & x64 ASM)](https://github.com/wojtek4321/image-sharpening-performance-cpp-asm)** – A high-performance tool comparing C++ and Assembly (x64) with SIMD (SSE/AVX) optimizations and multi-threading.
 * **Liquid Measurement System** – An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
 
----
+
 
 ### Currently Exploring
 * **Cybersecurity:** Expanding my knowledge of IT infrastructure protection and network security (completed the *Akademia_CYBER.MIL* Windows Security course).
