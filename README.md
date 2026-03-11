@@ -12,7 +12,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
 ### My Projects 
 * **[Image Sharpening Performance (C++ & x64 ASM)](https://github.com/wojtek4321/image-sharpening-performance-cpp-asm)** – A high-performance tool comparing C++ and Assembly (x64) with SIMD (SSE/AVX) optimizations and multi-threading.
