@@ -1,4 +1,4 @@
-# Hi <img src="https://camo.githubusercontent.com/ec2fecd1cbad538281a503525070d4d099fc27adc3faa97054a284860ef39083/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" width="30px">
+# <img src="https://camo.githubusercontent.com/ec2fecd1cbad538281a503525070d4d099fc27adc3faa97054a284860ef39083/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" width="30px"> Hi
 
 ### I'm Wojciech
 
@@ -23,9 +23,4 @@
 * **Game Dev:** Designing game mechanics and logic as a practical way to advance my Object-Oriented Programming (OOP) skills.
 
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wojtek4321&show_icons=true&locale=en&layout=compact" alt="wojtek4321" /></p>
 
