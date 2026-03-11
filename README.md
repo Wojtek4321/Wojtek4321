@@ -1,6 +1,4 @@
-# <img src="https://camo.githubusercontent.com/ec2fecd1cbad538281a503525070d4d099fc27adc3faa97054a284860ef39083/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" width="30px"> Hi
-
-### I'm Wojciech
+# <img src="https://camo.githubusercontent.com/ec2fecd1cbad538281a503525070d4d099fc27adc3faa97054a284860ef39083/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" width="30px"> Hi  I'm Wojciech
 
 **Computer Science Student at Silesian University of Technology**
 
@@ -21,11 +19,8 @@
 * **Liquid Measurement System** – An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
 
 
-
 ### Currently Exploring
 * **Cybersecurity:** Expanding my knowledge of IT infrastructure protection and network security (completed the *Akademia_CYBER.MIL* Windows Security course).
 * **Game Dev:** Designing game mechanics and logic as a practical way to advance my Object-Oriented Programming (OOP) skills.
 
-### Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-p%C4%99dziwiatr-399690398/)
 
