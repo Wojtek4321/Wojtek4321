@@ -13,6 +13,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
 ### My Projects 
 * **[Image Sharpening Performance (C++ & x64 ASM)](https://github.com/wojtek4321/image-sharpening-performance-cpp-asm)** – Tool comparing C++ and Assembly (x64) with SIMD (SSE/AVX) optimizations and multi-threading.
 * **[Liquid Measurement System](https://github.com/Wojtek4321/liquid_measurement_system)** – An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
