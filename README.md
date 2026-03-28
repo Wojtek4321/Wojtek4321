@@ -15,7 +15,7 @@
 
 
 ### My Educational Projects 
-* **[Knight's Legacy (C++ & SFML)](https://github.com/Wojtek4321/Knights-Legacy)** - 2D Action-RPG with state-driven AI, building mechanics, and persistent world exploration.
+* **[Knight's Legacy (C++ & SFML)](https://github.com/Wojtek4321/Knights-Legacy)** - 2D Action-RPG with state-driven AI, building mechanics, and persistent world system.
 * **[Image Sharpening Performance (C++ & x64 ASM)](https://github.com/wojtek4321/image-sharpening-performance-cpp-asm)** - Tool comparing C++ and Assembly (x64) with SIMD (SSE/AVX) optimizations and multi-threading.
 * **[Liquid Measurement System](https://github.com/Wojtek4321/liquid_measurement_system)** - An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
 
