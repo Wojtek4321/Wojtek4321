@@ -7,18 +7,20 @@ Hi  I'm Wojciech   <img src="https://camo.githubusercontent.com/ec2fecd1cbad5382
 ## Work with
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 
 ### My Educational Projects 
-* **[Knight's Legacy (C++ & SFML)](https://github.com/Wojtek4321/Knights-Legacy)** - 2D Action-RPG with state-driven AI, building mechanics, and persistent world system.
 * **[Retail ETL Pipeline](https://github.com/Wojtek4321/retail-etl-pipeline)** - Data processing using Python (Pandas) and PostgreSQL. Implements vectorized validation, Docker containerization, and automated error logging.
+* **[Knight's Legacy (C++ & SFML)](https://github.com/Wojtek4321/Knights-Legacy)** - 2D Action-RPG with state-driven AI, building mechanics, and persistent world system.
 * **[Image Sharpening Performance (C++ & x64 ASM)](https://github.com/wojtek4321/image-sharpening-performance-cpp-asm)** - Tool comparing C++ and Assembly (x64) with SIMD (SSE/AVX) optimizations and multi-threading.
 * **[Liquid Measurement System](https://github.com/Wojtek4321/liquid_measurement_system)** - An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
 
