@@ -5,27 +5,38 @@ Hi  I'm Wojciech   <img src="https://camo.githubusercontent.com/ec2fecd1cbad5382
 *I'm currently in my 6th semester of Computer Science, specializing in Databases and Systems Engineering.*
 
 ## Work with
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### Languages & Core
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Cloud & Data Engineering
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+### My Projects  
 
-
-### My Educational Projects 
+### Cloud & Data Engineering
 * **[Cloud Game Data Collector](https://github.com/Wojtek4321/cloud-game-data-collector)** - Cloud-native data pipeline for ingesting, processing, and visualizing real-time game telemetry. Built with Python (FastAPI), Azure Data Lake, Databricks (PySpark).
-* **[Knight's Legacy (C++ & SFML)](https://github.com/Wojtek4321/Knights-Legacy)** - 2D Action-RPG with state-driven AI, building mechanics, and persistent world system.
 * **[Retail ETL Pipeline](https://github.com/Wojtek4321/retail-etl-pipeline)** - Data processing using Python (Pandas) and PostgreSQL. Implements vectorized validation, Docker containerization, and automated error logging.
+
+### Game Development
+* **[Knight's Legacy (C++ & SFML)](https://github.com/Wojtek4321/Knights-Legacy)** - 2D Action-RPG with state-driven AI, building mechanics, and persistent world system.
+
+### Low-Level & Systems Engineering
 * **[Image Sharpening Performance (C++ & x64 ASM)](https://github.com/wojtek4321/image-sharpening-performance-cpp-asm)** - Tool comparing C++ and Assembly (x64) with SIMD (SSE/AVX) optimizations and multi-threading.
 * **[Liquid Measurement System](https://github.com/Wojtek4321/liquid_measurement_system)** - An academic project for measuring liquid levels, temperature, and pressure with an integrated web interface via Access Point.
+
 
 
 ### Currently Exploring
