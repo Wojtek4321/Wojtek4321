@@ -19,6 +19,8 @@ Hi  I'm Wojciech   <img src="https://camo.githubusercontent.com/ec2fecd1cbad5382
 
 ### My Projects  
 
+
+
 ### Cloud & Data Engineering
 * **[Cloud Game Data Collector](https://github.com/Wojtek4321/cloud-game-data-collector)** - Cloud-native data pipeline for ingesting, processing, and visualizing real-time game telemetry. Built with Python (FastAPI), Azure Data Lake, Databricks (PySpark).
 * **[Retail ETL Pipeline](https://github.com/Wojtek4321/retail-etl-pipeline)** - Data processing using Python (Pandas) and PostgreSQL. Implements vectorized validation, Docker containerization, and automated error logging.
